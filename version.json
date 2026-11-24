@@ -1,0 +1,29 @@
+{
+  "appName": "QuantamNetPro Mobile",
+  "packageName": "com.quantamnetpro.mobile",
+  "version": "1.0.0",
+  "buildNumber": 100,
+  "releaseDate": "November 24, 2026",
+  "apkFileName": "QuantamNetPro-v1.0.0.apk",
+  "apkPath": "downloads/QuantamNetPro-v1.0.0.apk",
+  "fileSize": "14.8 MB",
+  "minAndroid": "Android 8.0 (Oreo) or higher",
+  "targetArchitecture": "Universal (arm64-v8a, armeabi-v7a, x86_64)",
+  "sha256": "a5e9f928c620ef7d6faf18f9698530bade6bedd69f2411c89acafdda35485b22",
+  "officialWebsite": "https://www.quantamnetpro.com",
+  "developer": "Shakir Hossain (Founder & Lead Systems Architect)",
+  "whatsNew": [
+    "Official Initial Public Release of QuantamNetPro for Android",
+    "Real-time RFC 3550 Jitter & Bufferbloat network telemetry engine",
+    "Ultra-low latency edge server ping diagnostics across global Anycast nodes",
+    "Modern dark cyber mode HUD interface with 60fps telemetry graph",
+    "Zero background bloat, zero tracking, battery-optimized architecture",
+    "Offline diagnostic log export and Wi-Fi / Cellular comparative benchmarks"
+  ],
+  "requirements": {
+    "os": "Android 8.0+",
+    "ram": "2 GB RAM minimum",
+    "storage": "35 MB free storage",
+    "permissions": "Internet & Network State Access"
+  }
+}
